@@ -1,0 +1,30 @@
+body {
+    background: #0d1111;
+    color: #ffff;
+    font-family: cursive;
+}
+.main {
+
+    position: relative;
+    width: 20em;
+    top: 35%;
+    margin: auto;
+    margin-bottom: 10px;
+    background: #090c0c;
+    text-align: center;
+    border-image: linear-gradient(90deg, rgba(237,251,252,1) 0%, rgba(84,103,103,1) 50%, rgba(185,255,247,1) 100%) 1;
+    border-top: 1px solid;
+    border-left: 1px solid ;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+}
+table,
+td {
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}

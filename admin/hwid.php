@@ -11,10 +11,9 @@ if($hwid['password'] != $_COOKIE["pass"]) {
 if($hwid['admin'] != '1') {
     die();
 }
-$subname = $_POST['subuser'];
-$subtill = $_POST['subtime'];
-$sql2 = "UPDATE `users` SET `subtill` = '$subtill' WHERE name = '$subname'";
+if(!isset($_POST['hwiduser'])) {
+    header('location: \index.php');
+}
+$hwidname = $_POST['hwiduser'];
+$sql2 = "UPDATE users SET `hwid` = NULL WHERE `name` = '${hwidname}'";
 $conn->query($sql2);
-echo "sub set successfully";
-echo $subtill;
-echo $subname;
