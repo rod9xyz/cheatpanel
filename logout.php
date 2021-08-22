@@ -1,5 +1,5 @@
 <?php
 setcookie("username", null);
-setcookie("password", null);
+setcookie("pass", null);
 header('location: index.php');
 ?>
