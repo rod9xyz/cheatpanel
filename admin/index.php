@@ -49,4 +49,13 @@ if($hwid['admin'] != '1') {
 
     </form>
 </div>
+<div class="main">
+    <p>Reset Password</p>
+    <form action="resetpass.php" method="post">
+        <p>Username <input type="text" name="passuser"/></p>
+        <p>Password <input type="text" name="password"/></p>
+        <input type="submit" value="Reset"/>
+
+    </form>
+</div>
 </html>
