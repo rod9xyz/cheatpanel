@@ -3,7 +3,7 @@ Simple php panel for your p2c
 
 # Installing
 1. Download repository files<br>
-``git clone https://github.com/rod9xyz/rod9xyz.git``
+``git clone https://github.com/rod9xyz/cheatpanel.git``
 2. Import .sql file from releases<br>
   https://github.com/rod9xyz/cheatpanel/releases
 3. Edit config.php file
