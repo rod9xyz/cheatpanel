@@ -1,6 +1,6 @@
 
 # cheatpanel 
-## THIS CODE IS SO CRINGE. I WILL REMAKE IT IN THE FUTURE
+## THIS CODE IS SO CRINGE. I WILL MAKE SOMETHING NEW IN THE FUTURE
 Simple php panel for your p2c<br>
 
 ![image](https://user-images.githubusercontent.com/88497462/130856492-5319b3fa-6550-4dc6-8c53-cd597940c4b1.png)<br>
