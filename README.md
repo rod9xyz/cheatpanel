@@ -1,10 +1,11 @@
+
 # cheatpanel 
+## THIS CODE IS SO CRINGE. I WILL REMAKE IT IN THE FUTURE
 Simple php panel for your p2c<br>
 
 ![image](https://user-images.githubusercontent.com/88497462/130856492-5319b3fa-6550-4dc6-8c53-cd597940c4b1.png)<br>
 ![image](https://user-images.githubusercontent.com/88497462/130856575-7f921e9e-f7e6-4ba5-bdf4-897665a93644.png)<br>
 ![image](https://user-images.githubusercontent.com/88497462/130856680-bce931d4-71e0-4abf-9d00-bfea0c2c4622.png)
-
 
 
 # Installing
@@ -19,3 +20,4 @@ Simple php panel for your p2c<br>
 - Added new functions to ACP<br>
 #### 0.6
 - Added reset password system
+
